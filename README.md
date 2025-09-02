@@ -54,7 +54,7 @@ Qual é a moeda de destino (ex: EUR, JPY): EUR
 
 Desenvolvido por **Rafael Fernando Apolinário** 🚀  
 
-- 📌 [Meu LinkedIn](https://www.linkedin.com/in/rafael-fernando-apolinario)  
+- 📌 [Meu LinkedIn](https://www.linkedin.com/in/rafael-apolin%C3%A1rio-pcd-a95034121/)  
 - 📌 [Meu GitHub](https://github.com/RafaelApolinario90)  
 
 Se gostou do projeto, deixe uma ⭐ no repositório 😉
