@@ -14,7 +14,7 @@ O objetivo foi praticar **requisições HTTP**, **manipulação de JSON** e **es
 
 ---
 
-## 📸 Exemplo de uso
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32"> Exemplo de uso
 
 === Conversor de Moedas ===
 
