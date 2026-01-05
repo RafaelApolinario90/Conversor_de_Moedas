@@ -5,7 +5,7 @@ O objetivo foi praticar **requisições HTTP**, **manipulação de JSON** e **es
 
 ---
 
-## 🚀 Funcionalidades
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="32"> Funcionalidades
 
 - Listar moedas disponíveis (com nome e código ISO).
 - Converter valores entre moedas em tempo real.
@@ -43,7 +43,7 @@ Qual é a moeda de destino (ex: EUR, JPY): EUR
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="32" />  Tecnologias utilizadas
 - Python 3
 - Biblioteca `requests`
 - API de câmbio [open.er-api.com](https://open.er-api.com/)
