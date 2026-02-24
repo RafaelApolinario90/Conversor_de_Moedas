@@ -58,3 +58,6 @@ Desenvolvido por **Rafael Fernando Apolinário**   <img src="https://emojis.wiki
 
 Se gostou do projeto, deixe uma <img src="https://emojis.wiki/emoji-pics-lf/telegram/star-telegram.gif" alt="⭐" width="25" height="20"/> no repositório <img src="https://emojis.wiki/emoji-pics-lf/telegram/slightly-smiling-face-telegram.gif" alt="🙂" width="25" height="25"/>
 
+
+
+
